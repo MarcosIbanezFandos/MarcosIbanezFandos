@@ -2,7 +2,7 @@
 
 My name is Marcos Ibáñez. I was born in Valencia, Spain 🍊. I'm a Telecommunications Engineer passionate about the intersection of technology and business, with a strong focus on Data Science, Business Analytics, and Applied AI. I love building things that make life and decision-making a bit easier!
 
-### 👨🏼‍💻 Work
+### 👨🏻‍💻 Work
 
 I'm currently working in Transaction Pricing at **BMW Group**, based in Munich, Germany.
 
