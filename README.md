@@ -16,8 +16,8 @@ Currently, I'm pursuing a **Master in Business Analytics & Data Science** at **I
 I'm always looking for new challenges and ways to apply technology to real-world problems. Here are some of the tools I've built and use:
 
 - 💳 **[Credit-Card-Fraud-Detection](https://github.com/MarcosIbanezFandos/Credit-Card-Fraud-Detection)**: A cost-sensitive fraud detection model. It provides an interactive interface to evaluate the real economic impact of different fraud detection decisions.
-- 📈 **[FandAnce](https://github.com/MarcosIbanezFandos/Fandance-PWA)**: A personal robo-advisor tool. I use it to easily manage and rebalance my index-fund portfolio by setting target weights and calculating exact monthly contribution amounts.
-- 📱 **[FanDios](https://github.com/MarcosIbanezFandos/Fandios-App)**: A gamified personal improvement web app I built to track habits and build real discipline with zero friction.
+- 📈 **[FandANCE](https://github.com/MarcosIbanezFandos/Fandance-PWA)**: A personal robo-advisor tool. I use it to easily manage and rebalance my index-fund portfolio by setting target weights and calculating exact monthly contribution amounts.
+- 📱 **[FANDiOS](https://github.com/MarcosIbanezFandos/Fandios-App)**: A gamified personal improvement web app I built to track habits and build real discipline with zero friction.
 - 📝 **[FanLog](https://github.com/MarcosIbanezFandos/FanLog)**: A personal knowledge graph that turns a decade of my scattered digital data (photos, workouts, bank statements, calendars) into a single, queryable timeline of my life.
 - 🎲 **[ProyectoOca](https://github.com/MarcosIbanezFandos/ProyectoOca)**: A multiplayer web edition of the classic 'Game of the Goose' (La Oca) that I built for a university project.
 
