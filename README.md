@@ -1,26 +1,31 @@
-# Hi there 👋
+### Hi, I'm Marcos 👋
 
-My name is Marcos Ibáñez. I was born in Valencia, Spain 🍊. I'm a Telecommunications Engineer passionate about the intersection of technology and business, with a strong focus on Data Science, Business Analytics, and Applied AI. I love building things that make life and decision-making a bit easier!
+Telecommunications Engineer working where technology meets business, with a focus on
+**Data Science, Business Analytics and Applied AI**. I like building tools that make
+decisions easier.
 
-### 👨🏻‍💻 Work
+- 💼 Transaction Pricing at **BMW Group**, Munich
+- 🎓 Master in Business Analytics & Data Science at **IE University**
+- 🎓 BSc in Telecommunications Engineering, **Universitat Politècnica de València (UPV)**
 
-I'm currently working in Transaction Pricing at **BMW Group**, based in Munich, Germany.
+### 🛠️ Projects
 
-### 🏫 Study
+| | Project | |
+|---|---|---|
+| 💳 | **[Credit Card Fraud Detection](https://github.com/MarcosIbanezFandos/Credit-Card-Fraud-Detection)** | My bachelor's thesis: fraud models (Random Forest, XGBoost, LightGBM) tuned to minimise the money lost rather than to maximise accuracy, with calibration, cost-based thresholds and a Streamlit app. |
+| 📈 | **[Fandance](https://github.com/MarcosIbanezFandos/Fandance-PWA)** | Index-portfolio rebalancer: works out exactly where each monthly contribution should go, with ETF look-through and money-weighted returns. React, FastAPI, Supabase. |
+| 🌐 | **[Portfolio website](https://github.com/MarcosIbanezFandos/marcosibanezfandos.github.io)** | My personal site and CV: a dependency-light React app on GitHub Pages. |
 
-I studied a Bachelor's degree in Telecommunications Engineering at the **Universitat Politècnica de València (UPV)**. 
-Currently, I'm pursuing a **Master in Business Analytics & Data Science** at **IE**.
+Also built, in private repositories:
 
-### 🖥️ Personal Projects
+- **FANDiOS**: an offline-first PWA that turns daily habits, training and health data into a score (Next.js, TypeScript, Supabase).
+- **FanLog**: a lifelog engine that merges personal data exports into a single, searchable timeline (Python, PostgreSQL, Next.js).
+- **Game of the Goose**: a multiplayer web edition of the classic board game, built as a university group project (Java Servlets, AWS RDS, Docker).
 
-I'm always looking for new challenges and ways to apply technology to real-world problems. Here are some of the tools I've built and use:
+### 🧰 Toolbox
 
-- 💳 **[Credit-Card-Fraud-Detection](https://github.com/MarcosIbanezFandos/Credit-Card-Fraud-Detection)**: A cost-sensitive fraud detection model. It provides an interactive interface to evaluate the real economic impact of different fraud detection decisions.
-- 📈 **[FandANCE](https://github.com/MarcosIbanezFandos/Fandance-PWA)**: A personal robo-advisor tool. I use it to easily manage and rebalance my index-fund portfolio by setting target weights and calculating exact monthly contribution amounts.
-- 📱 **[FANDiOS](https://github.com/MarcosIbanezFandos/Fandios-App)**: A gamified personal improvement web app I built to track habits and build real discipline with zero friction.
-- 📝 **[FanLog](https://github.com/MarcosIbanezFandos/FanLog)**: A personal knowledge graph that turns a decade of my scattered digital data (photos, workouts, bank statements, calendars) into a single, queryable timeline of my life.
-- 🎲 **[ProyectoOca](https://github.com/MarcosIbanezFandos/ProyectoOca)**: A multiplayer web edition of the classic 'Game of the Goose' (La Oca) that I built for a university project.
+Python · SQL · pandas · scikit-learn · Power BI · Alteryx · TypeScript · React · Next.js · FastAPI · PostgreSQL / Supabase · Docker
 
-### 📲 Connect with me
+### 📫 Contact
 
-You can dive deeper into my background, professional experience, and more details on all these projects by visiting [my portfolio](https://marcosibanezfandos.github.io/).
+[Portfolio](https://marcosibanezfandos.github.io) · [LinkedIn](https://www.linkedin.com/in/marcos-ibanez/)
